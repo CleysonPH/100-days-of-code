@@ -19,3 +19,4 @@ My personal challenge to code 2h every working day for 100 days
     - [Design Patterns Python II: Boas práticas de programação](https://www.alura.com.br/curso-online-design-patterns-python-2)
 
 ## Twitter posts
+[Day 01](https://twitter.com/cleysonph/status/1239401210530213888)
