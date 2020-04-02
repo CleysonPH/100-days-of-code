@@ -8,7 +8,7 @@ My personal challenge to code 2h every working day for 100 days
 
 ## My goals
 - Make the following projects:
-    - [ ] A book database
+    - [x] A book database
     - [ ] A web app for recipes
     - [ ] An expense recorder
     - [ ] A personal diary web app
