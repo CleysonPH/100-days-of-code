@@ -14,7 +14,7 @@ My personal challenge to code 2h every working day for 100 days
     - [ ] A personal diary web app
 - Finish the following courses:
     - [x] [Programação Web com Django Framework - do básico ao avançado](https://www.udemy.com/course/programacao-web-com-django-framework-do-basico-ao-avancado/)
-    - [ ] [Testes automatizados: TDD com Python](https://www.alura.com.br/curso-online-tdd-com-python)
+    - [x] [Testes automatizados: TDD com Python](https://www.alura.com.br/curso-online-tdd-com-python)
     - [ ] [Design Patterns Python I: Boas práticas de programação](https://www.alura.com.br/curso-online-design-patterns-python)
     - [ ] [Design Patterns Python II: Boas práticas de programação](https://www.alura.com.br/curso-online-design-patterns-python-2)
 
